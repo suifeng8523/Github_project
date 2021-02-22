@@ -1,4 +1,4 @@
 dir
-sleep 30
+date
 echo %JAVA_HOME%
 sleep 20
